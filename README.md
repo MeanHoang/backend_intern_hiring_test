@@ -19,7 +19,7 @@ npm install
 ### 3️⃣ **Run each task**  
 
 - **Task 1: Algorithm - Array Manipulation**  
-  - Run:    npm run task2.js
+  - Run:    npm run task1.js
 
 - **Task 2: API Integration**  
   - Run:    npm run task2.js
